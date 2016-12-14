@@ -6,4 +6,4 @@ Minimal dark theme which is soothing to eyes and catchy colors
 ![screenshot-html](/screenshots/Screen\ Shot\ HTML.png "HTML Screen Shot")
 
 ### CSS
-![screenshot-html](/screenshots/Screen\ Shot\ CSS.png "CSS Screen Shot")
+![screenshot-css](/screenshots/Screen\ Shot\ CSS.png "CSS Screen Shot")
